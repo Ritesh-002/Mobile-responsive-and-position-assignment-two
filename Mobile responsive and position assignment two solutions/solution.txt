@@ -1,0 +1,23 @@
+Ans1. 
+In CSS, the position property is used to specify how an element is positioned within its parent container or relative to the viewport.
+Types of position Values:
+1. static
+2. sticky
+3. fixed
+4. absolute
+5. relative
+
+Ans2. 
+5 Types
+1. static 
+2. sticky
+3. fixed
+4. absolute
+5. relative
+
+Ans3. 
+In CSS, z-index is a property that controls the stacking order of positioned elements. When elements overlap on a web page, the z-index property determines which elements appear on top of others. The higher the z-index value, the closer the element is to the front (or top) of the stacking order.
+Why Use z-index?
+1. Layering Elements
+2. Modal Windows and Overlays
+3. Stacking Context
